@@ -1,4 +1,4 @@
-July 1, 2026
+## July 1, 2026
 
 Today Orion became a public project.
 
